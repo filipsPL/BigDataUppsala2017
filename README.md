@@ -1,6 +1,6 @@
 Big Data in Biological Sciences :: SLU Uppsala
 
-=======
+---------
 
 # Intro, random notes
 
