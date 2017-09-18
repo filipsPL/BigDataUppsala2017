@@ -6,9 +6,10 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 
 # Intro, random notes
 
+- Erik Bongcam-Rudloff.(SLUBI/SGBC, Swedish University of Agricultural Sciences, Uppsala, Sweden): Opening of the training school an Practicalities explained
+
 - [SLU Uppsala](http://slu.se/)
 - COST actions - short scientific stays (1 month), Identify action, apply, visit.
-- prowadzący wstęp: - Erik Rudolff
 - Sweden - 90% forests
 - ~~karta lanczowa prepaid~~
 - SMSes in Amsterdam on 31 dec 
