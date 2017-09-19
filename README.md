@@ -95,3 +95,12 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 
 - C - what training error do we allow
 - Optimization methods: Limited-memory BFGS (L-BFGS)
+
+# 13:30-16:00 Apurva Nandan (CSC  - IT Center for Science, Finland): Spark SQL.
+
+- spark sql dataframes: like in python
+- dataframes lpeszy performance niż rdd
+- immutable - nie można ich modyfikować (tj w tym samym obiekcie)
+- https://github.com/csc-training/spark-sql
+- jupyter notebook attached
+- similar to pandas
