@@ -66,6 +66,7 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 
 ### Clustering
 
+- unsupervised learning
 - define distance
 
 ### Regression
@@ -82,6 +83,15 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 
 ## 10-12:30 Marco Capuccini (Uppsala University): Machine learning in Spark hands-on. This is a short introductory lecture and followed by a hands-on.
 
+- https://docs.google.com/presentation/d/1fFjBjqdA2L4LgjzX_jMWLEDVYGFRUnuIHjmBZEisq-o/edit#slide=id.p
 
 - **apache spark** - successor of hadoop
+- allows interactive analysis with jupyter notebook or apache zeppelin https://zeppelin.apache.org/
+- OpenStack is a free and open-source software platform for cloud computing, mostly deployed as an infrastructure-as-a-service (IaaS). https://en.wikipedia.org/wiki/OpenStack
+- Docker: `sudo docker run -p 8080:8080 -d mcapuccini/mllib-exercises`
 
+
+### SVM
+
+- C - what training error do we allow
+- Optimization methods: Limited-memory BFGS (L-BFGS)
