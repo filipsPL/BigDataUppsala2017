@@ -104,3 +104,7 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - https://github.com/csc-training/spark-sql
 - jupyter notebook attached
 - similar to pandas :warnin: :bulb:
+- easy to use (my opinion)
+- analysis of a live data (Twitter hashtags)
+- apple mac - 20 rodzajów adapterów do HDMI/VGA... #strange...
+
