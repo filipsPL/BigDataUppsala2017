@@ -103,4 +103,4 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - immutable - nie można ich modyfikować (tj w tym samym obiekcie)
 - https://github.com/csc-training/spark-sql
 - jupyter notebook attached
-- similar to pandas
+- similar to pandas :warnin: :bulb:
