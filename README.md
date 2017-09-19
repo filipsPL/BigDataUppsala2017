@@ -81,3 +81,7 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - Linear models: N points can be separated in N-1 dimensiosn
 
 ## 10-12:30 Marco Capuccini (Uppsala University): Machine learning in Spark hands-on. This is a short introductory lecture and followed by a hands-on.
+
+
+- **apache spark** - successor of hadoop
+
