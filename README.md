@@ -96,7 +96,7 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - C - what training error do we allow
 - Optimization methods: Limited-memory BFGS (L-BFGS)
 
-# 13:30-16:00 Apurva Nandan (CSC  - IT Center for Science, Finland): Spark SQL.
+## 13:30-16:00 Apurva Nandan (CSC  - IT Center for Science, Finland): Spark SQL.
 
 - spark sql dataframes: like in python
 - dataframes lpeszy performance niż rdd
@@ -108,3 +108,8 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - analysis of a live data (Twitter hashtags)
 - apple mac - 20 rodzajów adapterów do HDMI/VGA... #strange...
 
+## 16-17:00 Dr Vaughan Wittorff (PetaGene): “PetaSuite: Reducing the size and cost of NGS data storage and transfer”. 
+
+
+- bardzo duży spadek kosztu sekwencjonowania; relatywnie koszt magazyniwania danych rośnie!
+- Extremely Fast Compression algorithm http://www.lz4.org
