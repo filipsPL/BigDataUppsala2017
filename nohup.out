@@ -1,5 +1,0 @@
-Hspell: can't open /usr/share/hspell/hebrew.wgz.sizes.
-sonnet.plugins.hspell: HSpellDict::HSpellDict: Init failed
-sonnet.core: No language dictionaries for the language: "pl"
-sonnet.core: deleting 0x312dac0 for "pl"
-sonnet.core: Removing loader:  Sonnet::Loader(0x7f387470b5d0)

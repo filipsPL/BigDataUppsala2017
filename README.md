@@ -51,12 +51,33 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - pandas - dataframes integration
 
 
-# Tuesday
+# Tuesday 
 
+## 9-10 Gioele La Manno (Karolinska Institute): Introduction to machine learning
+
+### PCAs
 
 - dimensionality: obraz 128x128 px => 16384 dimensions!
 - PCA - obrót wg dwóch (n) najważniejszych osi (koń 3D -> 2D)
 - T-SNE - algrytm. t-distributed stochastic neighbor embedding (t-SNE) is a machine learning algorithm for dimensionality reduction developed by Geoffrey Hinton and Laurens van der Maaten.[1] It is a nonlinear dimensionality reduction technique that is particularly well-suited for embedding high-dimensional data into a space of two or three dimensions, which can then be visualized in a scatter plot. Specifically, it models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points. https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 - linear mapping allows returning to the orginal space! -- tj odtworzenie zjawiska na podstawie PCA - generative model!!! :warning: :bulb:
+ - PCA - to tylko obrót. Inna sprawa to to, co się wyświetla...
+ - https://pl.wikipedia.org/wiki/Analiza_g%C5%82%C3%B3wnych_sk%C5%82adowych
 
+### Clustering
 
+- define distance
+
+### Regression
+
+- logistic regression
+
+### Error of the model
+
+- https://en.wikipedia.org/wiki/Overfitting
+
+### Classification
+
+- Linear models: N points can be separated in N-1 dimensiosn
+
+## 10-12:30 Marco Capuccini (Uppsala University): Machine learning in Spark hands-on. This is a short introductory lecture and followed by a hands-on.
