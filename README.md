@@ -63,7 +63,9 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 - linear mapping allows returning to the orginal space! -- tj odtworzenie zjawiska na podstawie PCA - generative model!!! :warning: :bulb:
  - PCA - to tylko obrót. Inna sprawa to to, co się wyświetla...
  - https://pl.wikipedia.org/wiki/Analiza_g%C5%82%C3%B3wnych_sk%C5%82adowych
-
+ - http://ordination.okstate.edu/PCA.htm
+ - https://stats.stackexchange.com/questions/158552/what-is-the-horseshoe-effect-and-or-the-arch-effect-in-pca-correspondence
+ 
 ### Clustering
 
 - unsupervised learning
@@ -113,3 +115,32 @@ http://astrocyte.com/COST-CHARME/COST-CHARME/Home.html
 
 - bardzo duży spadek kosztu sekwencjonowania; relatywnie koszt magazyniwania danych rośnie!
 - Extremely Fast Compression algorithm http://www.lz4.org
+
+
+# Wednesday 20.9.2017 9-12 Witold Rudnicki (University of Warsaw): Identification of informative variables in highly-multidimensional data  (machine learning hands-on with expression data).
+
+- dwa rozkłady - czy się różnią?
+- t-test - ale jak jest dużo zmiennych w próbce, to ciężko
+- Bonferoni correction (FWER) - https://en.wikipedia.org/wiki/Bonferroni_correction
+- false discovery rate
+- information enthropy https://en.wikipedia.org/wiki/Entropy_(information_theory)
+- random forests - lot of trees, randomized, democratic decision; dla każdego drzewa ograniczona liczba zmiennych
+
+
+
+## R Studio
+
+- BioConductoR - biblioteka
+
+
+# 13:00-16:00 Kim Kultima, Payam Emami, Stephanie Herman and Ola Spjuth (Uppsala University): Large-scale medical metabolomics. Two major projects dedicated to this: Caramba.clinic and Phenomenal.
+
+- metabolmics; chromatografia + MS (HPLC/MS?)
+- Docker!
+- Pachyderm - workflow system based on containers: http://www.pachyderm.io/
+
+
+//We pay solid SF-based salaries along with significant equity because at this stage in our company's life, the right person is worth anything. We also offer full health benefits, unlimited vacation, flexible work hours and all the usual startup perks. //
+
+- bardzo ważne jest wersjonowanie danych! git? :warning:
+
